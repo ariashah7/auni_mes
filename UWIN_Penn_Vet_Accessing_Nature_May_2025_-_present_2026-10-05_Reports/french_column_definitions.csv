@@ -1,0 +1,52 @@
+﻿column_name_english,column_name_french,description_french
+scientific_name,nom_scientifique,"Classification binomiale (genre, espèces) des espèces"
+hourly_weather_station_distance,distance_station_météorologique_horaire,Distance de la station météorologique la plus près qui extrait les données météorologiques horaires (en kilomètres)
+daily_weather_station_distance,distance_station_météorologique_quotidienne,Distance de la station météorologique la plus près qui extrait les données météorologiques quotidiennes (en kilomètres)
+daily_weather_station_elevation,élévation_station_météorologique_quotidienne,Élévation de la station météorologique la plus près qui extrait les données météorologiques quotidiennes (en mètres)
+hourly_weather_station_elevation,élévation_station_météorologique_horaire,Élévation de la station météorologique la plus près qui extrait les données météorologiques horaires (en mètres)
+hide_location,visibilité_emplacement,Est-ce que l'emplacement est non visible?
+latitude,latitude,Latitude
+longitude,longitude,Longitude
+daily_weather_station_nm,nom_station_météorologique_quotidienne,Nom de la station météorologique la plus près qui extrait les données météorologiques quotidiennes
+hourly_weather_station_nm,nom_station météorologique_horaire,Nom de la station météorologique la plus près qui extrait les données météorologiques horaires
+organization,organisation,Acronyme de l’organisation à qui appartiennent les données
+buffer,rayon_zone_tampon_m,Rayon de la zone tampon autour de l’emplacement (en mètres)
+hourly_precipitation_mm,précipitations_horaire,Accumulation de neige quotidienne (en centimètres) enregistrée à la station météorologique la plus près
+daily_snow_on_ground_cm,accumulation_neige_quotidienne_cm,Accumulation de neige quotidienne (en centimètres) enregistrée à la station météorologique la plus près
+daily_max_temp,température_maximale_quotidienne,Température maximale quotidienne enregistrée à la station météorologique la plus près
+daily_mean_temp,température_moyenne_quotidienne,Température moyenne quotidienne enregistrée à la station météorologique la plus près
+daily_min_temp,température_minimale_quotidienne,Température minimale quotidienne enregistrée à la station météorologique la plus près
+daily_precipitation_mm,précipitations_quotidiennes_mm,Précipitations quotidiennes (en millimètres) enregistrées à la station météorologique la plus près
+daily_total_rain_mm,chute_pluie_totale_quotidienne_mm,Chute de pluie totale quotidienne (en millimètres) enregistrée à la station météorologique la plus près
+daily_total_snow_cm,chute_neige_totale_quotidienne_cm,Chute de neige totale quotidienne (en centimètres) enregistrée à la station météorologique la plus près
+hourly_weather_attributes,attributs_horaires_température,Description de la température horaire à l’heure la plus près. Options possibles :
+hourly_dew_point,point_rosée_horaire,Point de rosée (en Celsius) enregistré à la station météorologique la plus près à l’heure la plus près
+hourly_humidex,humidex_horaire,Humidex ou indice d’humidité (en Celsius) qui mesure la sensation qu’éprouve la personne moyenne par temps très chaud en fonction de l’humidité et de la température enregistrées à la station météorologique la plus près à l’heure la plus près
+equipment_used,,
+location,emplacement,Endroit physique dans le paysage où les données ont été recueillies
+hourly_rel_humidity,humidité_horaire_relative,Humidité relative (calculée en pourcentage de la concentration d’eau présente dans l’air) enregistrée à la station météorologique la plus près à l’heure la plus près
+hourly_temp,température_horaire,Température (en Celsius) enregistrée à la station météorologique la plus près à l’heure la plus près
+hourly_visibility_km,visibilité_horaire_km,Visibilité (en kilomètres) enregistrée à la station météorologique à l’heure la plus près
+hourly_wind_direction,direction_vent_horaire,Direction du vent (en degrés) enregistrée à la station météorologique la plus près à l’heure la plus près
+hourly_wind_chill,refroidissement_éolien_horaire,Refroidissement éolien ou baisse de température causés par la vitesse du vent et la température de l’air (mesurée en Celsius) enregistré à la station météorologique la plus près à l’heure la plus près
+hourly_wind_speed,vitesse_vent_horaire,Vitesse du vent (en kilomètres/heure) enregistrée à la station météorologique la plus près à l’heure la plus près
+hourly_station_pressure,pression_atmosphérique_horaire,Pression atmosphérique (en kilopascals) enregistrée à la station météorologique la plus près à l’heure la plus près
+is_verified,étiquette_verifiée,"Si VRAI, l'étiquette fut vérifiée"
+land_features,éléments_de_paysage,Une liste délimitée par virgules des éléments du paysage autour du site
+project_name,nom_du_projet,Le nom complet du projet
+species_comments,,
+species_common_name,,
+tagged_in_wildtrax,étiqueter_dans_wildtrax,"Si VRAI, l'étiquette fut créée dans WildTrax (c-à-d pas téleéversée)"
+url,,
+verified_by,,
+date_detected,date_d√©tection,Horodatage (date et heure) de l‚Äôimage
+field_of_view,champ_observ√©,Utilis√© pour d√©finir la p√©riode d‚Äôobservation et l‚Äôeffort d‚Äô√©chantillonnage
+age_class,classe_√¢ge,Classe d‚Äô√¢ge de l‚Äôindividu d√©tect√©
+sex,sexe,Sexe de l‚Äôindividu d√©tect√© en fonction des caract√©ristiques physiques
+number_individuals,nombre_individus,Nombre d‚Äôindividus visible dans l‚Äôimage
+id_by,√©tiquet√©_par,Utilisateur ayant √©tiquet√© l‚Äôimage
+camera_make,,
+camera_model,,
+serial_number,,
+image_comments,commentaire_image,Commentaire valable pour toutes les √©tiquettes d‚Äôune image
+tag_comments,commentaire_√©tiquette,Commentaires valables pour une seule √©tiquette dans une image

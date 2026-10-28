@@ -1,0 +1,81 @@
+---
+title: "data"
+format: html
+---
+
+## Tables
+
+* english_column_definitions
+* french_column_definitions
+* abstract: irrelevant
+* image_report: image metadata and whatnot
+* image_set_report
+* location_report: lists all camera locations
+* main_report
+* megadetector_results
+* project_report: irrelevant
+* tag_report: animal/tag info inputted by reviewers
+
+location long is not negative when it should be!!
+
+use time and lat long to get weather from external source
+
+```{r}
+library(tidyverse)
+
+locations <- read.csv('UWIN_Penn_Vet_Accessing_Nature_May_2025_-_present_2026-10-05_Reports/UWIN_Penn_Vet_UWIN_Penn_Vet_Accessing_Nature_May_2025_-_present_location_report.csv') |>
+  mutate(longitude = -abs(longitude)) |>      # location morris_2 /558901/ had a positive lng which was a mistake (presumably)
+  mutate(latitude = abs(latitude))            # these standardize the lats and lngs assuming every cam is in the northern & western hemisphere
+```
+
+```{r}
+library(leaflet)
+
+leaflet(locations) |>
+  addTiles() |>
+  addMarkers()
+```
+
+```{r}
+main <- read.csv('UWIN_Penn_Vet_Accessing_Nature_May_2025_-_present_2026-10-05_Reports/UWIN_Penn_Vet_UWIN_Penn_Vet_Accessing_Nature_May_2025_-_present_main_report.csv') |>
+  filter(!(species_common_name %in% unhelpful)) |>
+  filter(!(species_common_name %in% domestics)) |>
+  filter(!(species_scientific_name == '')) |>
+  mutate(longitude = -abs(longitude)) |>      # location morris_2 /558901/ had a positive lng which was a mistake (presumably)
+  mutate(latitude = abs(latitude)) |>         # these standardize the lats and lngs assuming every cam is in the northern & western hemisphere
+  mutate(superlocation = str_extract(location, '[:alpha:]*'))
+
+unique(main$species_common_name)
+
+main |>
+  ggplot(aes(x = superlocation)) +
+  geom_bar(aes(fill = species_common_name)) +
+  theme_bw() +
+  theme(legend.position = "none") +
+  theme(axis.text.x = element_text(angle = 300, vjust = 0.5, hjust = 0))
+
+main |>
+  ggplot(aes(x = "", y = species_common_name, fill=species_common_name)) +
+  geom_bar(stat="identity", width=1) +
+  coord_polar("y", start=0) +
+  theme_void() #+
+  theme(legend.position = "none")
+
+
+main |>
+  group_by(species_common_name) |>
+  summarize(count = n())
+
+
+unhelpful <- c("STAFF/SETUP", "NONE", "Vehicle", "Unidentified")
+
+domestics <- c("Human", "Domestic Dog", "Domestic Cat (House Cat)")
+
+#unidentified: filter(!(species_scientific_name == ''))
+  
+
+
+
+  
+```
+

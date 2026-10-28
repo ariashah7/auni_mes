@@ -1,0 +1,52 @@
+﻿column_name_english,description_english
+scientific_name,"Binomial classification (Genus, species) of the species"
+hourly_weather_station_distance,Distance of the nearest weather station pulling daily metadata (in kilometers)
+daily_weather_station_distance,Distance of the nearest weather station pulling daily weather conditions (in kilometers)
+daily_weather_station_elevation,Elevation of the nearest weather station pulling daily weather conditions (in meters)
+hourly_weather_station_elevation,Elevation of the nearest weather station pulling hourly weather conditions (in meters)
+hide_location,Is the location hidden?
+latitude,Latitude
+longitude,Longitude
+daily_weather_station_nm,Name of the nearest weather station pulling daily weather conditions
+hourly_weather_station_nm,Name of the nearest weather station pulling houly weather conditions
+organization,Organization acronym; the organization that the data belongs to
+buffer,Radius of the buffer around the location (in meters)
+hourly_precipitation_mm,"The amount of precipitation (mm for rain, cm for snow) at the nearest weather station at the nearest hour"
+daily_snow_on_ground_cm,The daily accumulated snowfall (in centimeters) at the nearest weather station
+daily_max_temp,The daily maximum temperature at the nearest weather station
+daily_mean_temp,The daily mean temperature at the nearest weather station
+daily_min_temp,The daily mininum temperature at the nearest weather station
+daily_precipitation_mm,The daily precipitation (in millimeters) at the nearest weather station
+daily_total_rain_mm,The daily total rainfall (in millimeters) at the nearest weather station
+daily_total_snow_cm,The daily total snowfall (in centimeters) at the nearest weather station
+hourly_weather_attributes,The description of the hourly weather at the nearest hour. Options include:
+hourly_dew_point,The dewpoint (in Celsius) recorded at the nearest weather station at the nearest hour
+hourly_humidex,The humidex or humidity index (in celsius) measures how hot the weather feels according to humidity and temperature recorded at the nrest weather at the nearest hour
+equipment_used,The make and model of the equipment used
+location,The physical place on the landscape where the data was collected
+hourly_rel_humidity,The relative humidity (in percent concentration of water vapour present in the air) recorded at the nearest weather station at the nearest hour
+hourly_temp,The temperature (in Celsius) recorded at the nearest weather station at the nearest hour
+hourly_visibility_km,The visibility (in kilometers) recorded at the nearest weather at the nearest hour
+hourly_wind_direction,The wind direction (in degrees) at the nearest weather station at the nearest hour
+hourly_wind_chill,The windchill or lowering of temperature due to wind speed and air temperature (measured in celsius) recorded at the nearest weather at the nearest hour
+hourly_wind_speed,The wind speed (in kilometers per hour) at the nearest weather station at the nearest hour
+hourly_station_pressure,The atmospheric pressure (in kilopascals) recorded at the nrest weather at the nearest hour
+is_verified,"If TRUE, the tag has been verified"
+land_features,A comma-delimited list of the land features at the location
+project_name,The full name of the project
+species_comments,
+species_common_name,
+tagged_in_wildtrax,"If TRUE, the tag was created by a human (i.e. not imported via upload tags)"
+url,
+verified_by,
+date_detected,Timestamp (date and time) on the image
+field_of_view,Used to define the observation period and sampling effort 
+age_class,Age group classification of the individual detected
+sex,Sex of individual detected based on physical characteristics 
+number_individuals,Number of individuals visible in the image
+id_by,The user who tagged the image
+camera_make,
+camera_model,
+serial_number,
+image_comments,A comment that applies to all the tags within an image
+tag_comments,Comments specific to a single tag within an image

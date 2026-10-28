@@ -1,0 +1,74 @@
+﻿project_id,location,location_id,equipment_make,equipment_model,equipment_serial,image_set_status,image_set_count_motion,image_set_count_total,image_set_count_timelapse,image_set_start_date_time,image_set_end_date_time,image_set_id,internal_pud_id,image_set_url
+3973,laurelhill_2,563242,BROWNING,BTC-8E-H5,"",Tagging Complete,0,16,0, 2026-04-14 15:18:57, 2026-05-22 12:11:45,83609,99360,https://portal.wildtrax.ca/cam/processing/99360
+3973,elmwood_1,556369,BROWNING,BTC-8E-H5,"",Tagging Complete,0,70,0, 2025-12-30 13:55:49, 2026-02-12 13:05:52,77107,91254,https://portal.wildtrax.ca/cam/processing/91254
+3973,morris_3,563252,BROWNING,BTC-8E-H5,"",Tagging Complete,0,109,0, 2026-01-08 14:03:56, 2026-02-27 11:22:19,77114,91261,https://portal.wildtrax.ca/cam/processing/91261
+3973,schuylkill_2,563248,BROWNING,BTC-8E-H5,"",Ready for Tagging,0,157,0, 2026-06-25 13:28:12, 2026-08-06 15:39:42,84913,100913,https://portal.wildtrax.ca/cam/processing/100913
+3973,laurelhill_1,563241,BROWNING,BTC-8E-H5,"",Tagging Complete,0,170,0, 2025-09-22 13:31:51, 2025-11-03 11:36:30,73984,87006,https://portal.wildtrax.ca/cam/processing/87006
+3973,heinz_1,563238,BROWNING,BTC-8E-H5,"",Tagging Complete,0,1574,0, 2026-04-15 12:05:00, 2026-06-04 15:12:22,82266,97655,https://portal.wildtrax.ca/cam/processing/97655
+3973,andorra_1,585004,BROWNING,BTC-8E-H5,"",Ready for Tagging,0,103,0, 2026-06-25 15:29:40, 2026-08-07 12:02:36,87931,104612,https://portal.wildtrax.ca/cam/processing/104612
+3973,taconycreek_2,582365,BROWNING,BTC-8E-H5,"",Ready for Tagging,0,438,0, 2026-06-11 10:54:25, 2026-08-03 17:29:42,84691,100634,https://portal.wildtrax.ca/cam/processing/100634
+3973,schuylkill_2,563248,BROWNING,BTC-8E-H5,"",Tagging Complete,0,156,0, 2026-04-17 14:02:41, 2026-05-29 11:18:44,82319,97729,https://portal.wildtrax.ca/cam/processing/97729
+3973,briarbush_1,563235,BROWNING,BTC-8E-H5,"",Tagging Complete,0,226,0, 2026-01-14 14:00:55, 2026-03-06 13:00:35,77349,91514,https://portal.wildtrax.ca/cam/processing/91514
+3973,elmwood_1,556369,BROWNING,BTC-8E-H5,"",Tagging Complete,0,77,0, 2025-10-01 13:10:24, 2025-11-07 15:36:13,74621,87871,https://portal.wildtrax.ca/cam/processing/87871
+3973,morris_2,558901,BROWNING,BTC-8E-H5,"",Tagging Complete,0,154,0, 2025-07-03 11:56:07, 2025-08-07 13:49:01,78669,93050,https://portal.wildtrax.ca/cam/processing/93050
+3973,houston_1,585017,BROWNING,BTC-8E-H5,"",Ready for Tagging,0,80,0, 2026-06-25 16:14:37, 2026-08-07 11:08:05,87947,104637,https://portal.wildtrax.ca/cam/processing/104637
+3973,morris_1,563250,BROWNING,BTC-8E-H5,"",Ready for Tagging,0,216,0, 2026-06-25 13:12:46, 2026-08-06 14:31:04,84916,100916,https://portal.wildtrax.ca/cam/processing/100916
+3973,mlkjrblvd_1,582360,BROWNING,BTC-8E-H5,"",Ready for Tagging,0,210,0, 2026-06-26 11:23:36, 2026-08-04 16:20:53,84675,100618,https://portal.wildtrax.ca/cam/processing/100618
+3973,heinz_3,563240,BROWNING,BTC-8E-H5,"",Tagging Complete,0,401,0, 2026-04-15 12:37:36, 2026-06-04 15:41:20,81758,97033,https://portal.wildtrax.ca/cam/processing/97033
+3973,kaskey_1,566971,BROWNING,BTC-8E-H5,"",Tagging Complete,0,999,0, 2026-01-13 10:06:02, 2026-03-01 20:06:43,77124,91271,https://portal.wildtrax.ca/cam/processing/91271
+3973,heinz_2,563251,BROWNING,BTC-8E-H5,"",Tagging Complete,0,47,0, 2026-01-12 11:58:33, 2026-02-25 15:00:33,78670,93051,https://portal.wildtrax.ca/cam/processing/93051
+3973,kitchensln_1,582362,BROWNING,BTC-8E-H5,"",Ready for Tagging,0,174,0, 2026-06-28 08:29:11, 2026-08-03 07:30:53,85118,101127,https://portal.wildtrax.ca/cam/processing/101127
+3973,heinz_1,563238,BROWNING,BTC-8E-H5,"",Ready for Tagging,0,321,0, 2026-06-26 15:14:35, 2026-08-04 11:15:54,84671,100614,https://portal.wildtrax.ca/cam/processing/100614
+3973,morris_1,563250,BROWNING,BTC-8E-H5,"",Tagging Complete,0,723,0, 2025-09-22 10:30:50, 2025-11-03 09:56:09,74005,87027,https://portal.wildtrax.ca/cam/processing/87027
+3973,phillyzoo_1,563243,BROWNING,BTC-8E-H5,"",Tagging Complete,0,237,0, 2025-10-11 11:41:34, 2025-11-19 15:12:59,73991,87013,https://portal.wildtrax.ca/cam/processing/87013
+3973,kaskey_1,566971,BROWNING,BTC-8E-H5,"",Ready for Tagging,0,66,0, 2026-06-25 12:18:49, 2026-08-04 15:13:05,84668,100611,https://portal.wildtrax.ca/cam/processing/100611
+3973,morris_3,563252,BROWNING,BTC-8E-H5,"",Ready for Tagging,0,440,0, 2026-06-25 13:52:49, 2026-08-06 14:06:41,84915,100915,https://portal.wildtrax.ca/cam/processing/100915
+3973,walnutave_1,585016,BROWNING,BTC-8E-H5,"",Ready for Tagging,0,84,0, 2026-06-27 13:59:48, 2026-08-07 10:21:40,87946,104636,https://portal.wildtrax.ca/cam/processing/104636
+3973,cobbs_1,563237,BROWNING,BTC-8E-H5,"",Tagging Complete,0,184,0, 2025-10-09 15:47:58, 2025-11-20 14:14:43,73977,86999,https://portal.wildtrax.ca/cam/processing/86999
+3973,elmwood_1,556369,BROWNING,BTC-8E-H5,"",Ready for Tagging,0,56,0, 2026-06-29 09:31:47, 2026-08-02 15:52:15,84681,100624,https://portal.wildtrax.ca/cam/processing/100624
+3973,schuylkill_1,563247,BROWNING,BTC-8E-H5,"",Tagging Complete,0,20,0, 2026-01-14 13:20:42, 2026-01-15 06:26:10,78121,92427,https://portal.wildtrax.ca/cam/processing/92427
+3973,schuylkill_2,563248,BROWNING,BTC-8E-H5,"",Tagging Complete,0,90,0, 2026-01-14 12:59:57, 2026-02-20 13:08:26,78122,92428,https://portal.wildtrax.ca/cam/processing/92428
+3973,phillyzoo_1,563243,BROWNING,BTC-8E-H5,"",Tagging Complete,0,240,0, 2026-04-15 11:16:29, 2026-05-18 01:55:36,82323,97733,https://portal.wildtrax.ca/cam/processing/97733
+3973,briarbush_1,563235,BROWNING,BTC-8E-H5,"",Tagging Complete,0,628,0, 2026-04-15 16:21:39, 2026-06-03 08:57:53,81755,97030,https://portal.wildtrax.ca/cam/processing/97030
+3973,heinz_2,563251,BROWNING,BTC-8E-H5,"",Tagging Complete,0,299,0, 2025-06-30 13:42:53, 2025-08-08 07:52:15,77378,91543,https://portal.wildtrax.ca/cam/processing/91543
+3973,kaskey_1,566971,BROWNING,BTC-8E-H5,"",Tagging Complete,0,90,0, 2025-07-03 12:16:15, 2025-08-08 14:36:27,78120,92426,https://portal.wildtrax.ca/cam/processing/92426
+3973,heinz_2,563251,BROWNING,BTC-8E-H5,"",Tagging Complete,0,107,0, 2026-04-15 11:44:35, 2026-05-22 08:38:57,82320,97730,https://portal.wildtrax.ca/cam/processing/97730
+3973,taconycreek_1,582363,BROWNING,BTC-8E-H5,"",Ready for Tagging,0,362,0, 2026-06-23 14:24:48, 2026-08-03 15:41:15,84682,100625,https://portal.wildtrax.ca/cam/processing/100625
+3973,morris_1,563250,BROWNING,BTC-8E-H5,"",Tagging Complete,0,478,0, 2026-01-08 13:33:48, 2026-02-27 10:57:18,77118,91265,https://portal.wildtrax.ca/cam/processing/91265
+3973,morris_2,558901,BROWNING,BTC-8E-H5,"",Tagging Complete,0,276,0, 2026-01-08 13:42:42, 2026-02-27 11:03:23,77116,91263,https://portal.wildtrax.ca/cam/processing/91263
+3973,morris_3,563252,BROWNING,BTC-8E-H5,"",Tagging Complete,0,113,0, 2026-04-14 14:14:58, 2026-05-22 14:06:26,81759,97034,https://portal.wildtrax.ca/cam/processing/97034
+3973,laurelhill_1,563241,BROWNING,BTC-8E-H5,"",Tagging Complete,0,353,0, 2026-01-14 14:43:37, 2026-02-27 11:55:37,77211,91361,https://portal.wildtrax.ca/cam/processing/91361
+3973,morris_1,563250,BROWNING,BTC-8E-H5,"",Tagging Complete,0,326,0, 2025-07-03 14:14:33, 2025-08-07 18:00:14,77392,91566,https://portal.wildtrax.ca/cam/processing/91566
+3973,schuylkill_1,563247,BROWNING,BTC-8E-H5,"",Tagging Complete,0,222,0, 2025-09-22 12:16:17, 2025-11-07 13:06:28,74000,87022,https://portal.wildtrax.ca/cam/processing/87022
+3973,heinz_3,563240,BROWNING,BTC-8E-H5,"",Ready for Tagging,0,92,0, 2026-06-27 16:59:33, 2026-08-04 11:42:23,84669,100612,https://portal.wildtrax.ca/cam/processing/100612
+3973,cobbs_1,563237,BROWNING,BTC-8E-H5,"",Ready for Tagging,0,58,0, 2026-06-27 15:49:09, 2026-07-15 00:58:37,84677,100620,https://portal.wildtrax.ca/cam/processing/100620
+3973,saul_1,563245,BROWNING,BTC-8E-H5,"",Tagging Complete,0,676,0, 2025-10-07 14:30:01, 2025-12-05 14:20:22,73993,87015,https://portal.wildtrax.ca/cam/processing/87015
+3973,cobbs_1,563237,BROWNING,BTC-8E-H5,"",Tagging Complete,0,527,0, 2026-04-17 15:47:13, 2026-05-22 15:46:27,81757,97032,https://portal.wildtrax.ca/cam/processing/97032
+3973,heinz_1,563238,BROWNING,BTC-8E-H5,"",Tagging Complete,0,233,0, 2026-01-12 08:52:34, 2026-02-28 14:43:03,76572,90542,https://portal.wildtrax.ca/cam/processing/90542
+3973,heinz_3,563240,BROWNING,BTC-8E-H5,"",Tagging Complete,0,110,0, 2026-01-12 09:27:42, 2026-02-19 16:07:43,78119,92425,https://portal.wildtrax.ca/cam/processing/92425
+3973,kaskey_1,566971,BROWNING,BTC-8E-H5,"",Tagging Complete,0,43,0, 2025-10-06 13:09:49, 2025-10-22 14:50:50,74620,87870,https://portal.wildtrax.ca/cam/processing/87870
+3973,morris_2,558901,BROWNING,BTC-8E-H5,"",Tagging Complete,0,114,0, 2025-09-22 10:57:11, 2025-11-03 10:40:12,74012,87034,https://portal.wildtrax.ca/cam/processing/87034
+3973,heinz_3,563240,BROWNING,BTC-8E-H5,"",Tagging Complete,0,27,0, 2025-09-29 12:36:37, 2025-11-04 15:01:24,73982,87004,https://portal.wildtrax.ca/cam/processing/87004
+3973,elmwood_1,556369,BROWNING,BTC-8E-H5,"",Tagging Complete,0,64,0, 2026-03-21 11:44:14, 2026-05-08 13:26:54,82321,97731,https://portal.wildtrax.ca/cam/processing/97731
+3973,morris_3,563252,BROWNING,BTC-8E-H5,"",Tagging Complete,0,401,0, 2025-09-22 11:31:03, 2025-11-03 11:00:43,74013,87035,https://portal.wildtrax.ca/cam/processing/87035
+3973,heinz_1,563238,BROWNING,BTC-8E-H5,"",Tagging Complete,0,635,0, 2025-09-29 13:32:38, 2025-11-04 14:22:02,78118,92424,https://portal.wildtrax.ca/cam/processing/92424
+3973,laurelhill_2,563242,BROWNING,BTC-8E-H5,"",Ready for Tagging,0,20,0, 2026-06-28 09:26:15, 2026-08-04 13:49:31,84812,100773,https://portal.wildtrax.ca/cam/processing/100773
+3973,morris_1,563250,BROWNING,BTC-8E-H5,"",Tagging Complete,0,1142,0, 2026-04-14 13:28:10, 2026-05-22 13:31:20,82545,98018,https://portal.wildtrax.ca/cam/processing/98018
+3973,laurelhill_2,563242,BROWNING,BTC-8E-H5,"",Tagging Complete,0,294,0, 2025-09-22 13:54:06, 2025-11-03 10:37:45,73985,87007,https://portal.wildtrax.ca/cam/processing/87007
+3973,briarbush_1,563235,BROWNING,BTC-8E-H5,"",Ready for Tagging,0,236,0, 2026-07-03 09:37:28, 2026-08-07 15:55:07,85078,101087,https://portal.wildtrax.ca/cam/processing/101087
+3973,laurelhill_1,563241,BROWNING,BTC-8E-H5,"",Tagging Complete,0,84,0, 2026-04-14 14:52:34, 2026-05-22 12:22:37,83608,99359,https://portal.wildtrax.ca/cam/processing/99359
+3973,phillyzoo_1,563243,BROWNING,BTC-8E-H5,"",Tagging Complete,0,194,0, 2025-07-12 11:44:01, 2025-08-09 13:04:54,77396,91570,https://portal.wildtrax.ca/cam/processing/91570
+3973,schuylkill_1,563247,BROWNING,BTC-8E-H5,"",Ready for Tagging,0,310,0, 2026-06-26 12:57:04, 2026-08-07 15:15:15,84914,100914,https://portal.wildtrax.ca/cam/processing/100914
+3973,saul_1,563245,BROWNING,BTC-8E-H5,"",Tagging Complete,0,412,0, 2025-06-30 09:31:54, 2025-08-12 11:16:41,77390,91564,https://portal.wildtrax.ca/cam/processing/91564
+3973,schuylkill_1,563247,BROWNING,BTC-8E-H5,"",Tagging Complete,0,410,0, 2026-04-17 14:25:35, 2026-05-29 10:44:49,82317,97727,https://portal.wildtrax.ca/cam/processing/97727
+3973,laurelhill_1,563241,BROWNING,BTC-8E-H5,"",Ready for Tagging,0,97,0, 2026-06-26 14:13:42, 2026-08-04 16:44:14,84811,100772,https://portal.wildtrax.ca/cam/processing/100772
+3973,heinz_2,563251,BROWNING,BTC-8E-H5,"",Tagging Complete,0,159,0, 2025-09-29 12:20:15, 2025-11-18 10:02:06,74008,87030,https://portal.wildtrax.ca/cam/processing/87030
+3973,laurelhill_2,563242,BROWNING,BTC-8E-H5,"",Tagging Complete,0,109,0, 2026-01-14 14:56:36, 2026-02-27 12:06:43,77212,91362,https://portal.wildtrax.ca/cam/processing/91362
+3973,phillyzoo_1,563243,BROWNING,BTC-8E-H5,"",Tagging Complete,0,345,0, 2026-01-14 11:50:30, 2026-02-20 15:07:47,77110,91257,https://portal.wildtrax.ca/cam/processing/91257
+3973,haddington_1,582359,BROWNING,BTC-8E-H5,"",Ready for Tagging,0,70,0, 2026-06-27 15:06:43, 2026-08-04 10:27:20,84672,100615,https://portal.wildtrax.ca/cam/processing/100615
+3973,schuylkill_2,563248,BROWNING,BTC-8E-H5,"",Tagging Complete,0,344,0, 2025-09-22 12:53:48, 2025-11-12 16:20:59,74001,87023,https://portal.wildtrax.ca/cam/processing/87023
+3973,discovery_1,585015,BROWNING,BTC-8E-H5,"",Ready for Tagging,0,95,0, 2026-06-26 10:35:38, 2026-09-04 12:23:44,87945,104635,https://portal.wildtrax.ca/cam/processing/104635
+3973,morris_2,558901,BROWNING,BTC-8E-H5,"",Ready for Tagging,0,68,0, 2026-06-25 12:53:10, 2026-08-06 14:38:04,84917,100917,https://portal.wildtrax.ca/cam/processing/100917
+3973,saul_1,563245,BROWNING,BTC-8E-H5,"",Ready for Tagging,0,343,0, 2026-06-25 12:20:09, 2026-08-13 11:23:32,87944,104634,https://portal.wildtrax.ca/cam/processing/104634
+3973,briarbush_1,563235,BROWNING,BTC-8E-H5,"",Tagging Complete,0,665,0, 2025-10-01 09:39:17, 2025-11-19 17:32:00,73974,86996,https://portal.wildtrax.ca/cam/processing/86996
+3973,kaskey_1,566971,BROWNING,BTC-8E-H5,"",Tagging Complete,0,928,0, 2026-04-14 11:51:48, 2026-06-05 13:27:43,82099,97437,https://portal.wildtrax.ca/cam/processing/97437
